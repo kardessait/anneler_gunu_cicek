@@ -31,4 +31,4 @@ Oyun ilerledikçe ekrandaki büyüleyici çiçeklerin ve atmosferin tadını ç�
 
 📸 Görünüm
 
-![Uploading Adsz-ezgif.com-video-to-gif-converter.gif…]()
+<img width="800" height="520" alt="Adsz-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5ec49abe-2109-45be-8876-8df6db5ff2e2" />
