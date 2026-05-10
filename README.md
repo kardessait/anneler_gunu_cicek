@@ -1,5 +1,5 @@
 🌸 Magical Night Flowers & Love Bar Game
-Bu proje, etkileşimli bir mini oyun ile görsel bir şöleni birleştiren, HT<img width="800" height="520" alt="Adsz-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d15e5e61-5bf3-4de2-b699-3dd666a49a18" />
+Bu proje, etkileşimli bir mini oyun ile görsel bir şöleni birleştiren,
 ML5, CSS3 ve JavaScript kullanılarak geliştirilmiş bir web uygulamasıdır. Kullanıcıya huzurlu bir gece atmosferinde, animasyonlu çiçekler ve neon efektleri eşliğinde keyifli bir deneyim sunar.
 
 
