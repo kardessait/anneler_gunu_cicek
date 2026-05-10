@@ -27,4 +27,5 @@ En yüksek skoru yaparak kendi rekorunuzu kırmaya çalışın.
 Oyun ilerledikçe ekrandaki büyüleyici çiçeklerin ve atmosferin tadını çıkarın.
 
 📸 Görünüm
+
 <img width="800" height="520" alt="EkranKayd2026-05-1023 21 42-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2b5953b2-6203-42bf-95ae-fd452d815aa8" />
